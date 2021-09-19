@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kangdaelyeol/fokin-tracker/static/css/main.0576eb07.chunk.css",
+    "main.js": "/kangdaelyeol/fokin-tracker/static/js/main.25e39b8e.chunk.js",
+    "main.js.map": "/kangdaelyeol/fokin-tracker/static/js/main.25e39b8e.chunk.js.map",
+    "runtime-main.js": "/kangdaelyeol/fokin-tracker/static/js/runtime-main.a4d8aea5.js",
+    "runtime-main.js.map": "/kangdaelyeol/fokin-tracker/static/js/runtime-main.a4d8aea5.js.map",
+    "static/js/2.10e070c4.chunk.js": "/kangdaelyeol/fokin-tracker/static/js/2.10e070c4.chunk.js",
+    "static/js/2.10e070c4.chunk.js.map": "/kangdaelyeol/fokin-tracker/static/js/2.10e070c4.chunk.js.map",
+    "index.html": "/kangdaelyeol/fokin-tracker/index.html",
+    "static/css/main.0576eb07.chunk.css.map": "/kangdaelyeol/fokin-tracker/static/css/main.0576eb07.chunk.css.map",
+    "static/js/2.10e070c4.chunk.js.LICENSE.txt": "/kangdaelyeol/fokin-tracker/static/js/2.10e070c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4d8aea5.js",
+    "static/js/2.10e070c4.chunk.js",
+    "static/css/main.0576eb07.chunk.css",
+    "static/js/main.25e39b8e.chunk.js"
+  ]
+}
